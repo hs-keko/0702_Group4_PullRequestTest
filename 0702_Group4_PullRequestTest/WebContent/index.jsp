@@ -23,5 +23,6 @@
 	<li><a href="khs.jsp">이충근의 jsp 페이지</a></li>
 	<li><a href="swh.jsp">석우현</a>
 	<li><a href="kdy.jsp">김다연의 jsp</a></li>
+	<li><a href="dydy.jsp">404버스입니다 누르지마세요</a></li>
 </body>
 </html>
