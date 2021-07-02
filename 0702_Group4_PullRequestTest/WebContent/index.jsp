@@ -20,5 +20,6 @@
 <body>
 	<h1>4조 Pull Request 테스트</h1>
 	<li><a href="khs.jsp">고현석의 jsp 페이지</a></li>
+	<li><a href="swh.jsp">석우현</a>
 </body>
 </html>
